@@ -1,0 +1,66 @@
+  -- 19.11.26 --
+
+INFORMACOES DO APP EM GERAL
+
+ -- 
+  . NOME DO APP
+
+  - ? NÃO DEFINIDO ?
+
+  . OBJETIVO DO APP
+
+  - app de treino / musculação
+
+ --------------------------------
+
+  . Stacks
+
+  - Backend == Python
+  - Frontend == JavaScript
+  
+  -------------------------------
+
+  . Frameworks
+
+  - Backend == FastApi
+  - Frontend == ? NÃO DEFINIDO ? sujestoes (React Native, ...)
+
+  --------------------------------
+
+  . 
+
+  - Tela inicial - - - - - - - - - - - - - - - - - - -
+
+  - Page com noticias e informativos da academia
+  - Form com login e senha do usuario
+
+  - Tela Admin - - - - - - - - - - - - - - - - - - - -
+
+  - Cadastrar novos usuarios e/ou excluir usuarios
+  - Adicionar, Atualizar, Ver e Remover treinos
+
+  - Tela usuarios - - - - - - - - - - - - - - - - - - -
+
+  - Visualizar treinos
+  - Escolher qual treino iniciar
+  - Marcar treinos como finalizados
+  - Modificar treinos (peso, repetição)
+  - Modificar alguns dados pessoais
+
+   - RESTRICOES - - - - - - - - - - - - - - - - - - - - -
+
+   . USUARIOS
+
+   - Não podem excluir seu treino
+   - Não podem acessar outro usuario
+   - O usuario deve ter acesso apenas a sua tela
+   - Deve ter acesso apenas as SUAS info pessoais
+   - Não devem vizualizar ou ter acesso a outros usuarios
+
+   . ADMINISTRADOR
+
+   - Não deve ter acesso aos dados de pagamentos dos usuarios(ex: Numero de cartoes, cod de segurança, bandeiras)
+
+
+
+
